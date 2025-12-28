@@ -1,0 +1,7 @@
+{
+  "name": "NAEZAK AI STUDIO - AI Creative Suite",
+  "description": "An all-in-one advanced AI Creative Suite for education, business, and digital content creation with specialized modes for comics, coloring books, and caricatures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
